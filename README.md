@@ -1,4 +1,5 @@
 Hi, I'm a Data Analyst.
+
 Data Analyst skilled in SQL, Excel, Power BI, Python, and data visualization.
 
 Skills
