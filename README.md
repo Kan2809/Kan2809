@@ -14,3 +14,7 @@ Python: Pandas, NumPy, Matplotlib, Seaborn
 
 Statistics: Descriptive statistics, hypothesis testing.
 
+
+My Projects
+
+[PowerBI Sales Analysis](https://github.com/Kan2809/PowerBI-Sales_Analysis)
